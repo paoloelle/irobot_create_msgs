@@ -2,7 +2,7 @@
 
 ROS 2 action, message, and service definitions used by the iRobot® Create® Platform.
 
-For more information about ROS 2 interfaces, see [index.ros2.org](https://index.ros.org/doc/ros2/Concepts/About-ROS-Interfaces/)
+For more information about ROS 2 interfaces, see [docs.ros.org](https://docs.ros.org/en/rolling/Concepts/Basic/About-Interfaces.html)
 
 ## Actions (.action)
 * [AudioNoteSequence](action/AudioNoteSequence.action): Play a given set of notes from the speaker for a given number of iterations.
