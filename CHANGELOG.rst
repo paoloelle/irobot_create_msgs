@@ -2,8 +2,8 @@
 Changelog for package irobot_create_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.0.0 (2024-06-05)
+------------------
 * Merge pull request `#17 <https://github.com/iRobotEducation/irobot_create_msgs/issues/17>`_ from iRobotEducation/16-broken-link-in-the-readme
   Fix broken link about ROS 2 interfaces
 * Fix broken link about ROS 2 interfaces
