@@ -2,6 +2,13 @@
 Changelog for package irobot_create_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#17 <https://github.com/iRobotEducation/irobot_create_msgs/issues/17>`_ from iRobotEducation/16-broken-link-in-the-readme
+  Fix broken link about ROS 2 interfaces
+* Fix broken link about ROS 2 interfaces
+* Contributors: Steven Shamlian
+
 2.1.0 (2022-09-15)
 ------------------
 * rename DockServo action into Dock and Dock msg into DockStatus
